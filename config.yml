@@ -352,6 +352,7 @@ blacklist:                                # List of users who are not challenged
 - AllieTheChessBot
 - maello_bot
 - Funeddy-Robotik
+- Legend_of_chess995
 
 online_blacklists:                        # List of URLs for online blacklists. One username per line.
 # -
